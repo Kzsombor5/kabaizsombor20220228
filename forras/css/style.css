@@ -10,7 +10,9 @@ h1{
 }
 
 h2{    
-    margin-top: 10px;    
+    margin-top: 10px;
+    color: #894f3b; 
+    border-color: #894f3b;  
 }
 
 h3{    
@@ -31,4 +33,7 @@ td,th{
 thead>tr:first-child{    
     letter-spacing: 2px;    
 }
-
+img
+{
+    width: 100%;
+}
